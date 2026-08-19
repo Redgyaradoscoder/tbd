@@ -1,0 +1,13 @@
+##Build chat
+
+Outline:
+A free to use ai chat that uses free models from openrouter.ai
+
+#Plan
+
+The build should be an ai chat with a widget that has animations.
+The chat should be friendly and be able to answer any question and give options for follow-up questions, Like the Chat-GPT ai chat
+It should have options for a light theme and a dark theme that can be changed from a drop-down menu that is opened by clicking a tool wheel in the top right corner.
+The build should also be able to save previouse conversations with the chat that can be resumed by selecting it from a sidebar.
+The model that is used for the bot is NVIDIA: Nemotron 3 Ultra (free)
+There should be absolutely no sign-in, just a free to use chat
